@@ -1,2 +1,2 @@
 # ioChat
-An Omegle clone, where one can talk to strangers, anonymously.
+An Omegle clone, to talk with strangers, anonymously.
